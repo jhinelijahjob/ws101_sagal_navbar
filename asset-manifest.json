@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_sagal_navbar/static/css/main.c6435905.css",
+    "main.js": "/ws101_sagal_navbar/static/js/main.65c8724c.js",
+    "index.html": "/ws101_sagal_navbar/index.html",
+    "main.c6435905.css.map": "/ws101_sagal_navbar/static/css/main.c6435905.css.map",
+    "main.65c8724c.js.map": "/ws101_sagal_navbar/static/js/main.65c8724c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6435905.css",
+    "static/js/main.65c8724c.js"
+  ]
+}
